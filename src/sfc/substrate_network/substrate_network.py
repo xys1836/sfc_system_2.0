@@ -1,6 +1,4 @@
 from networkx import networkx as nx
-from basic_object import BasicObject
-import math
 """
 node data structure:
 
